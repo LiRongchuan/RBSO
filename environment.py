@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
+import matplotlib.animation as animation
 
 EPISILON = 1E-10
 
@@ -13,7 +14,7 @@ class Environment:
         self.a = a
         self.r = r
         self.threshold = threshold
-        np.random.seed(seed)
+        # np.random.seed(seed)
         self.obstacles = self.generate_positions(num_obstacles, area)
         self.targets = self.generate_positions(num_targets, area)
         self.detected = np.full(num_targets, False)
