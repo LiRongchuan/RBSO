@@ -1,0 +1,40 @@
+Predators=4, Grid=30
+PSO Moves=36
+BSO Moves=18
+
+Predators=8, Grid=30
+PSO Moves=17
+BSO Moves=14
+
+Predators=12, Grid=30
+PSO Moves=44
+BSO Moves=16
+
+Predators=16, Grid=30
+PSO Moves=10
+BSO Moves=9
+
+Predators=24, Grid=30
+PSO Moves=14
+BSO Moves=9
+
+Predators=4, Grid=150
+PSO Moves=182
+BSO Moves=170
+
+Predators=8, Grid=150
+PSO Moves=188
+BSO Moves=56
+
+Predators=12, Grid=150
+PSO Moves=200
+BSO Moves=62
+
+Predators=16, Grid=150
+PSO Moves=109
+BSO Moves=42
+
+Predators=24, Grid=150
+PSO Moves=108
+BSO Moves=56
+
