@@ -1,40 +1,4 @@
-Predators=4, Grid=30
-PSO Moves=51.0
-BSO Moves=33.0
-
 Predators=8, Grid=30
-PSO Moves=40.2
-BSO Moves=14.0
-
-Predators=12, Grid=30
-PSO Moves=33.4
-BSO Moves=13.8
-
-Predators=16, Grid=30
-PSO Moves=33.6
-BSO Moves=12.6
-
-Predators=24, Grid=30
-PSO Moves=23.2
-BSO Moves=11.2
-
-Predators=4, Grid=150
-PSO Moves=230.0
-BSO Moves=178.0
-
-Predators=8, Grid=150
-PSO Moves=214.8
-BSO Moves=101.4
-
-Predators=12, Grid=150
-PSO Moves=192.0
-BSO Moves=77.8
-
-Predators=16, Grid=150
-PSO Moves=181.2
-BSO Moves=120.2
-
-Predators=24, Grid=150
-PSO Moves=169.8
-BSO Moves=119.6
+PSO Moves=247
+BSO Moves=87
 
